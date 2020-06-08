@@ -10,3 +10,6 @@ var n = x / y; // Division operation on variables.
 console.log("The value of n is ", n);
 var w = x * y + 20 - 10; // Arithmetic operation on an expression.
 console.log("The value of w is ", w);
+//--------------------------------
+var myVariable = "Bolt IoT";
+document.getElementById("demo").innerHTML = myVariable;
