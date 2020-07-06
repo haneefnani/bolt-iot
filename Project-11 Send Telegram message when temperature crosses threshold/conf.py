@@ -7,4 +7,4 @@ telegram_chat_id = "@bolt_iot_temperature_monitor"
 # This is the bot ID of the created Telegram Bot. Paste after bot text.
 telegram_bot_id = "bot935754143:AAEePbgKjm3pjO07so34Klrf5xd_CcrLapQ"
 threshold = 250                       # Threshold beyond which the alert should be sent
-  
+   
