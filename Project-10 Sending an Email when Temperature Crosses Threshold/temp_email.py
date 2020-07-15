@@ -30,4 +30,3 @@ while True:
         print("Error occured: Below are the details")
         print(e)
     time.sleep(10)
-  
